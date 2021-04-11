@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Account","An invalid email","SUCCESS","2021-04-10T10:22:34.738-05:00[America/Bogota]","0.0","26.63"
+"Create Account","An invalid email to create an Account","SUCCESS","2021-04-10T10:43:11.3-05:00[America/Bogota]","0.0","20.99"
+"Create Account","A valid email to create an Account","SUCCESS","2021-04-10T10:43:32.944-05:00[America/Bogota]","0.0","67.21"

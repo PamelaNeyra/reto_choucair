@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="17.502">
+<testcase classname="Forgot password" name="A valid email id is allowed" time="17.127">
+<system-out><![CDATA[Given Navigate to Page CreateAccount........................................passed
+When A User enters a valid email id.........................................passed
+And A User clicks on Retrieve password button...............................passed
+Then Application shows that the email has been sent.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
